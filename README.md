@@ -31,4 +31,26 @@ Files
 Technologies Used
 
 - Dashboard design tools (Power BI / Tableau / Excel - *depending on actual tool used*)
-- Visual
+- Visual Analytics
+
+Insights
+
+- Highest earning plans: `28Days-3 GB`, `84Days-3 GB`, `365Days-1.5 GB`
+- Most data usage across mid-tier plans.
+- Profit peaks significantly in longer and more data-intensive plans.
+
+Use Cases
+
+- Strategic pricing and marketing decisions
+- Analysis of usage behavior for telecom operators
+- Visual storytelling with big data for 5G insights
+
+Getting Started
+
+This repo is primarily for presentation and sharing. For live or interactive dashboards, contact the maintainer or consult deployment documentation (if provided).
+
+Contact
+
+For further details or collaboration:
+**[Pranab Nath]** – [Pranab.nath9@outlook.com]  
+
